@@ -234,8 +234,14 @@ Here are some of my top projects. You can find more on my repositories page.
 
 ### 📊 GitHub Stats
 
-![Hany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanyMedhat10&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanyMedhat10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/HanyMedhat10">
+    <img alt="HanyMedhat10's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HanyMedhat10&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287" height="192px"/>
+  </a>
+  <a href="https://github.com/HanyMedhat10">
+    <img alt="HanyMedhat10's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HanyMedhat10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+</div>
 
 ---
 
